@@ -29,4 +29,4 @@
 # Copyright (c) 2021 ETH Zurich, Nikita Rudin
 from legged_gym.envs.base.legged_robot_config import LeggedRobotCfg, LeggedRobotCfgPPO
 class IF_Cfg(LeggedRobotCfg):
-    class env(LeggedRobotCfg.env)
+    class env(LeggedRobotCfg.env) 
